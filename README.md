@@ -153,7 +153,7 @@ a.p:hover span {
 
 <br><br><br><br><br><br><br><br>
 
-<br><br><br><p>宇都宮市民水泳大会</p>	
+<br><br><br><p>宇都宮市民水泳大会リンク</p>	
 <h2><a href="https://dorikawa.github.io/20210704_Utsunomiya_swim/" target="_blank" rel="noopener noreferrer">2021/07/04 宇都宮市民水泳大会＠ドリームかわち</a></h2>
 
 <!-- フッタ -->
