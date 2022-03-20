@@ -148,6 +148,7 @@ a.p:hover span {
 <a href="https://dorikawa.github.io/swim/20220320_011.JPG" data-lightbox="abc"><img src="https://dorikawa.github.io/swim/20220320_011.JPG" alt="サンプル画像" width="900" /></a>
 	
 </div>
+	<br>
 <!-- フッタ -->
  <footer>
  Copyright 2001/07/25 泳法の進化研究会
