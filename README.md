@@ -148,18 +148,18 @@ a.p:hover span {
 <a href="https://dorikawa.github.io/swim/20220320_011.JPG" data-lightbox="abc"><img src="https://dorikawa.github.io/swim/20220320_011.JPG" alt="サンプル画像" width="900" /></a>
 	
 </div>
-	
+<!-- フッタ -->
+ <footer>
+ Copyright 2001/07/25 泳法の進化研究会
+ </footer>	
 
 
-<br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 <br><br><br><p>宇都宮市民水泳大会リンク</p>	
 <h2><a href="https://dorikawa.github.io/20210704_Utsunomiya_swim/" target="_blank" rel="noopener noreferrer">2021/07/04 宇都宮市民水泳大会＠ドリームかわち</a></h2>
 
-<!-- フッタ -->
- <footer>
- Copyright 2001/07/25 泳法の進化研究会
- </footer>
+
 
 <!--HPにさまざまなJavaScriptを呼び込むための書式-->
 <script src="https://code.jquery.com/jquery-1.12.4.min.js" type="text/javascript"></script>
