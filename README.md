@@ -121,9 +121,34 @@ a.p:hover span {
 	
 <br><p>泳法進化研究会が取りまとめた図書から、四角囲みの部分だけを取り出しました。<br>ほとんどの部分は先生たちが読むような難しい記述ですので割愛。</p>
 
-<br><br><p>50_Free, 4コースじゅりちゃん１位！</p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TphLZb50_zE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+<div style="background-color:rgba(0,255,0,0.5)"> 
+
+
+<a href="https://dorikawa.github.io/swim/20220320_001.JPG" data-lightbox="abc"><img src="https://dorikawa.github.io/swim/20220320_001.JPG" alt="サンプル画像" width="900" /></a>
+
+<a href="https://dorikawa.github.io/swim/20220320_002.JPG" data-lightbox="abc"><img src="https://dorikawa.github.io/swim/20220320_002.JPG" alt="サンプル画像" width="900" /></a>
+
+<a href="https://dorikawa.github.io/swim/20220320_003.JPG" data-lightbox="abc"><img src="https://dorikawa.github.io/swim/20220320_003.JPG" alt="サンプル画像" width="900" /></a>	
+
+<a href="https://dorikawa.github.io/swim/20220320_004.JPG" data-lightbox="abc"><img src="https://dorikawa.github.io/swim/20220320_004.JPG" alt="サンプル画像" width="900" /></a>	
+
+<a href="https://dorikawa.github.io/swim/20220320_005.JPG" data-lightbox="abc"><img src="https://dorikawa.github.io/swim/20220320_005.JPG" alt="サンプル画像" width="900" /></a>	
+
+<a href="https://dorikawa.github.io/swim/20220320_006.JPG" data-lightbox="abc"><img src="https://dorikawa.github.io/swim/20220320_006.JPG" alt="サンプル画像" width="900" /></a>
+
+<a href="https://dorikawa.github.io/swim/20220320_007.JPG" data-lightbox="abc"><img src="https://dorikawa.github.io/swim/20220320_007.JPG" alt="サンプル画像" width="900" /></a>
+
+<a href="https://dorikawa.github.io/swim/20220320_008.JPG" data-lightbox="abc"><img src="https://dorikawa.github.io/swim/20220320_008.JPG" alt="サンプル画像" width="900" /></a>	
+
+<a href="https://dorikawa.github.io/swim/20220320_009.JPG" data-lightbox="abc"><img src="https://dorikawa.github.io/swim/20220320_009.JPG" alt="サンプル画像" width="900" /></a>	
+
+<a href="https://dorikawa.github.io/swim/20220320_010.JPG" data-lightbox="abc"><img src="https://dorikawa.github.io/swim/20220320_010.JPG" alt="サンプル画像" width="900" /></a>	
+	
+<a href="https://dorikawa.github.io/swim/20220320_011.JPG" data-lightbox="abc"><img src="https://dorikawa.github.io/swim/20220320_011.JPG" alt="サンプル画像" width="900" /></a>
+	
+</div>
+	
 
 
 <br><br><br><br><br><br><br><br>
